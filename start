@@ -1,0 +1,5 @@
+# Встановлення залежностей
+pip install -r requirements.txt
+
+# Запуск бота
+python main.py
